@@ -1,9 +1,7 @@
-👋 Hi, I’m an ex-Bosch, Kaercher Senior Software Engineer.
+👋 Hi, I’m the creator of Blazor School and the founder of DotNetPro Technology.
 
-👀 I’m interested in .NET technology.
+👀 We do Blazor projects with the latest C# and .NET version for the customers.
 
-🌱 I’m the owner of DotNetPro blog and Blazor School. Check it out at https://dotnetpro.tech and https://blazorschool.com
+:exclamation: If you need a website, feel free to contact me.
 
-:exclamation: I'm looking for a remote/on-site job.
-
-📫 You can reach me by dotnetprotech@gmail.com.
+📫 You can reach me by dotnetprotech@gmail.com or Red Wei#2396 on Discord.
