@@ -1,6 +1,6 @@
 👋 Hi, I’m the creator of Blazor School and the founder of DotNetPro Technology.
 
-👀 We do Blazor projects with the latest C# and .NET version for the customers.
+👀 I do Blazor projects with the latest C# and .NET version for the customers.
 
 :exclamation: If you need a website, feel free to contact me.
 
